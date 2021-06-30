@@ -8,3 +8,5 @@ This is a new line for branch 2 - second commit
 I have committed a change and then I reverted the change.  This will be the new line.
 
 Now that I've created the development branch - work continues on branch 2 that I'd like to merge into development.
+
+I will now proceed to make changes to branch 2 and when done merge locally into development.
